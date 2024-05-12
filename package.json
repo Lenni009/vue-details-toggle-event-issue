@@ -1,0 +1,19 @@
+{
+	"name": "vue-details-toggle-event-issue",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vue-tsc && vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@types/node": "^20.12.11",
+		"@vitejs/plugin-vue": "^5.0.4",
+		"typescript": "^5.4.5",
+		"vite": "^5.2.11",
+		"vue": "^3.4.27",
+		"vue-tsc": "2.0.17"
+	}
+}
